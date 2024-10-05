@@ -1,4 +1,3 @@
-- Pedro Leal
 - BCC UFSCar
 
 <!---
